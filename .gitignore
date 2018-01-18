@@ -1,3 +1,4 @@
 /vendor/
 init.php
 subscribers.json
+.rbua_cache
